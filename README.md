@@ -20,3 +20,9 @@ This is an analysis of Amazon product review to generate insights for e-commerce
 12. Amount of products with fewer than 1,000 reviews
 13. Categories of products with the highest discounts
 14. Top 5 products in terms of rating and number of reviews combined.
+## Skills Demonstrated
+- Data cleaning in Excel
+- Pivot table creation
+- Advanced formulas
+- Dashboard design
+- Data visualization
