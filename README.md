@@ -26,3 +26,16 @@ This is an analysis of Amazon product review to generate insights for e-commerce
 - Advanced formulas
 - Dashboard design
 - Data visualization
+- ## Files Included
+- `Amazon_Review_Analysis.xlsx` - Full Excel workbook
+- 'Amazon_Dashboard.pdf` - PDF export of final dashboard
+- `README.md` - This documentation
+## How to Use
+1. Download the Excel file
+2. Explore the different sheets:
+   - "Raw Data" - Original dataset
+   - "Analysis" - Pivot tables and calculations
+   - "Dashboard" - Final interactive dashboard
+## Insights
+
+  
